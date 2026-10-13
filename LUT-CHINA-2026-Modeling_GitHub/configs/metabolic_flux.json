@@ -1,0 +1,9 @@
+{
+  "IPTG_concentration_mM": 0.1,
+  "UGT101_molecular_weight_kDa": 72.8,
+  "k_cat_s_inv": 4.2,
+  "Km_UDP_Glc_uM": 330.0,
+  "Km_calycosin_uM": 1490.0,
+  "Km_lobetyol_uM": 3640.0,
+  "SN2_activation_energy_kcal_mol": 17.85
+}

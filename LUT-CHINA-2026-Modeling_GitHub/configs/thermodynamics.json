@@ -1,0 +1,28 @@
+{
+  "components": [
+    "A_GlycyrrhizicAcid",
+    "B_CalycosinGlucoside",
+    "C_Lobetyolin"
+  ],
+  "feed_mass_ratio": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "feed_mole_fraction": [
+    0.333,
+    0.333,
+    0.334
+  ],
+  "single_cmc_mM": {
+    "A": 0.45,
+    "B": 1.2,
+    "C": 1.5
+  },
+  "fitted_interaction_parameters": {
+    "chi_AB": -6.825,
+    "chi_AC": -6.532,
+    "chi_BC": -2.906
+  },
+  "temperature_K": 298.15
+}

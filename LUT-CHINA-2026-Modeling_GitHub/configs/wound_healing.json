@@ -1,0 +1,7 @@
+{
+  "baseline_closure_rate_day_inv": 0.08,
+  "calycosin_angiogenesis_EC50_uM": 15.0,
+  "lobetyolin_anti_inflammatory_EC50_uM": 25.0,
+  "synergy_weight_alpha": 1.5,
+  "synergy_weight_beta": 1.2
+}

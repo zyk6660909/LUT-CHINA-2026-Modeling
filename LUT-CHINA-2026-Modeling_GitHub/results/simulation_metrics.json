@@ -1,0 +1,46 @@
+{
+    "Module_1_Thermodynamics": {
+        "single_CMC_mM": {
+            "A": 0.45,
+            "B": 1.2,
+            "C": 1.5
+        },
+        "interaction_parameters_chi": {
+            "chi_AB": -6.825,
+            "chi_AC": -6.532,
+            "chi_BC": -2.906
+        },
+        "mixed_CMC_mM": 0.1152,
+        "delta_G_excess_kJ_mol": -4.608,
+        "delta_G_total_kJ_mol": -27.089,
+        "Rh_loose_nm": 1150.0,
+        "Rh_compact_nm": 293.0,
+        "size_shrinkage_percentage": 74.52,
+        "inverted_cylinder_length_nm": 4420.3,
+        "synergy_confirmed": true
+    },
+    "Module_2_Transport_Decoupling": {
+        "dressing_thickness_mm": 3.5,
+        "retardation_factor_R": 12.11,
+        "Pe_free": 1.4,
+        "Pe_effective": 0.1156,
+        "is_diffusion_dominated": false,
+        "decoupling_criterion_satisfied": false
+    },
+    "Module_3_Metabolic_Cascade": {
+        "initial_aglycone_mM": 5.0,
+        "final_glycoside_product_mM": 5.0,
+        "substrate_conversion_efficiency_pct": 100.0,
+        "SN2_activation_energy_kcal_mol": 17.85,
+        "Km_UDP_Glc_uM": 330.0,
+        "Km_calycosin_uM": 1490.0
+    },
+    "Module_4_Wound_PKPD": {
+        "T50_untreated_days": 8.76,
+        "T50_commercial_standard_days": 7.28,
+        "T50_gradient_hydrogel_days": 3.27,
+        "healing_acceleration_percentage": 62.65,
+        "day21_residual_area_untreated_pct": 18.64,
+        "day21_residual_area_gradient_pct": 1.13
+    }
+}

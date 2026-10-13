@@ -1,0 +1,10 @@
+{
+  "dressing_thickness_mm": 3.5,
+  "diffusivity_top_m2_s": 1e-10,
+  "diffusivity_bottom_m2_s": 5e-10,
+  "exponent_n": 2,
+  "partition_coefficient_K": 100.0,
+  "hydrogel_porosity_phi": 0.9,
+  "sorptivity_S_m_s05": 0.00012,
+  "upward_fluid_velocity_m_s": 2e-07
+}
